@@ -1,3 +1,3 @@
 Hello i am Olegle,
-I am currently in the state of learning Advanced GLua
+I am Apsys in the state of learning Intermediate GLua
 # Good bye!
