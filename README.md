@@ -1,9 +1,11 @@
 # 💫 About Me:
-I program in GLua
+I am a Garry's Mod Programmer for Minerva Servers, as well as the Community Manager.
+Currently Learning CSharp in School
 
 
 # 💻 Tech Stack:
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bloodycop7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bloodycop7&theme=dark&hide_border=false)<br/>
