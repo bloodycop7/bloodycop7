@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/) Programmer for Minerva Servers, as well as the Community Manager.
+I am a [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/) Programmer for [Minerva Servers](https://discord.gg/nfVHfMFf6e), as well as the Community Manager.
+
 Currently Learning CSharp in School
 
 
