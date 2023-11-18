@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Garry's Mod Programmer for Minerva Servers, as well as the Community Manager.
+I am a ![Garry's Mod](https://files.facepunch.com/garry/822e60dc-c931-43e4-800f-cbe010b3d4cc.png) Programmer for Minerva Servers, as well as the Community Manager.
 Currently Learning CSharp in School
 
 
