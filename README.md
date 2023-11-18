@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/) Programmer for [Minerva Servers](https://discord.gg/nfVHfMFf6e), as well as the Community Manager.
 
-Currently Learning CSharp in School
+Currently Learning ![C#](https://img.shields.io/badge/csharp-%232C2D72.svg?style=for-the-badge&logo=csharp&logoColor=orange) in School
 
 
 # 💻 Tech Stack:
