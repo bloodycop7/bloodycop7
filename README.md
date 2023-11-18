@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a <img src="https://files.facepunch.com/garry/822e60dc-c931-43e4-800f-cbe010b3d4cc.png" width="15px"/> [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/) Programmer for [Minerva Servers](https://discord.gg/nfVHfMFf6e), as well as the Community Manager.
+I am a <img src="https://files.facepunch.com/garry/822e60dc-c931-43e4-800f-cbe010b3d4cc.png" width="20px"/> [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/) Programmer for [Minerva Servers](https://discord.gg/nfVHfMFf6e), as well as the Community Manager.
 
 Currently Learning C# in School
 
